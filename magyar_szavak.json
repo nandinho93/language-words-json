@@ -1,0 +1,126 @@
+{
+  "language": "hungarian",
+  "display_name": "Magyar",
+  "words": [
+    {
+      "word": "hiányzás",
+      "phonetic": "[ˈhiːaːɲzaːʃ]",
+      "example_sentence": "Az ő hiányzása alatt vigyáztam a házra.",
+      "category": "Personal data"
+    },
+    {
+      "word": "család",
+      "phonetic": "[ˈt͡ʃɒlaːd]",
+      "example_sentence": "A családom nagyon fontos számomra.",
+      "category": "Personal data"
+    },
+    {
+      "word": "munka",
+      "phonetic": "[ˈmuŋkɒ]",
+      "example_sentence": "Minden reggel bemegyek dolgozni.",
+      "category": "Work"
+    },
+    {
+      "word": "iskola",
+      "phonetic": "[ˈiʃkolɒ]",
+      "example_sentence": "A gyerekek reggel mennek iskolába.",
+      "category": "Education"
+    },
+    {
+      "word": "kórház",
+      "phonetic": "[ˈkoːrhaːz]",
+      "example_sentence": "Az orvos a kórházban dolgozik.",
+      "category": "Health"
+    },
+    {
+      "word": "étel",
+      "phonetic": "[ˈeːtɛl]",
+      "example_sentence": "A magyar étel nagyon finom.",
+      "category": "Food"
+    },
+    {
+      "word": "idő",
+      "phonetic": "[ˈidøː]",
+      "example_sentence": "Az idő nagyon gyorsan telik.",
+      "category": "Time"
+    },
+    {
+      "word": "pénz",
+      "phonetic": "[ˈpeːnz]",
+      "example_sentence": "Pénzre van szükségem az autó megvásárlásához.",
+      "category": "Finance"
+    },
+    {
+      "word": "város",
+      "phonetic": "[ˈvaːroʃ]",
+      "example_sentence": "Budapest egy nagyon szép város.",
+      "category": "Geography"
+    },
+    {
+      "word": "utazás",
+      "phonetic": "[ˈutɒzaːʃ]",
+      "example_sentence": "A magyarországi utazásom hihetetlen volt.",
+      "category": "Travel"
+    },
+    {
+      "word": "zene",
+      "phonetic": "[ˈzɛnɛ]",
+      "example_sentence": "Szeretek klasszikus zenét hallgatni.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "könyv",
+      "phonetic": "[ˈkɶɲv]",
+      "example_sentence": "Egy nagyon érdekes könyvet olvasok.",
+      "category": "Education"
+    },
+    {
+      "word": "barátság",
+      "phonetic": "[ˈbɒraːt͡ʃaːɡ]",
+      "example_sentence": "A barátság egy nagyon értékes kincs.",
+      "category": "Personal data"
+    },
+    {
+      "word": "természet",
+      "phonetic": "[ˈtɛrmeːsɛt]",
+      "example_sentence": "Szeretek a természetben sétálni.",
+      "category": "Nature"
+    },
+    {
+      "word": "boldogság",
+      "phonetic": "[ˈboldoɡʃaːɡ]",
+      "example_sentence": "A boldogság a kis dolgokban rejlik.",
+      "category": "Emotions"
+    },
+    {
+      "word": "kommunikáció",
+      "phonetic": "[ˈkommunikaːt͡sijoː]",
+      "example_sentence": "A kommunikáció a kapcsolatok kulcsa.",
+      "category": "Communication"
+    },
+    {
+      "word": "technológia",
+      "phonetic": "[ˈtɛxnoloːɡiɒ]",
+      "example_sentence": "A technológia nagyon gyorsan fejlődik.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultúra",
+      "phonetic": "[ˈkultuːrɒ]",
+      "example_sentence": "A magyar kultúra nagyon gazdag.",
+      "category": "Culture"
+    },
+    {
+      "word": "szabadság",
+      "phonetic": "[ˈsɒbɒdʃaːɡ]",
+      "example_sentence": "A szabadság alapvető jog.",
+      "category": "Society"
+    },
+    {
+      "word": "remény",
+      "phonetic": "[ˈrɛmeːɲ]",
+      "example_sentence": "Soha ne veszítsd el a reményt a jövőben.",
+      "category": "Emotions"
+    }
+  ]
+}

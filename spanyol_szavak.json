@@ -1,0 +1,126 @@
+{
+  "language": "spanish",
+  "display_name": "Spanyol",
+  "words": [
+    {
+      "word": "ausencia",
+      "phonetic": "[auˈsenθja]",
+      "example_sentence": "Durante mi ausencia, mi hermano cuidó la casa.",
+      "category": "Personal data"
+    },
+    {
+      "word": "familia",
+      "phonetic": "[faˈmilja]",
+      "example_sentence": "Mi familia es muy importante para mí.",
+      "category": "Personal data"
+    },
+    {
+      "word": "trabajo",
+      "phonetic": "[traˈβaxo]",
+      "example_sentence": "Voy al trabajo todos los días.",
+      "category": "Work"
+    },
+    {
+      "word": "escuela",
+      "phonetic": "[esˈkwela]",
+      "example_sentence": "Los niños van a la escuela por la mañana.",
+      "category": "Education"
+    },
+    {
+      "word": "hospital",
+      "phonetic": "[ospiˈtal]",
+      "example_sentence": "El médico trabaja en el hospital.",
+      "category": "Health"
+    },
+    {
+      "word": "comida",
+      "phonetic": "[koˈmiða]",
+      "example_sentence": "La comida española es deliciosa.",
+      "category": "Food"
+    },
+    {
+      "word": "tiempo",
+      "phonetic": "[ˈtjempo]",
+      "example_sentence": "El tiempo pasa muy rápido.",
+      "category": "Time"
+    },
+    {
+      "word": "dinero",
+      "phonetic": "[diˈnero]",
+      "example_sentence": "Necesito dinero para comprar el coche.",
+      "category": "Finance"
+    },
+    {
+      "word": "ciudad",
+      "phonetic": "[θjuˈðað]",
+      "example_sentence": "Madrid es una ciudad muy grande.",
+      "category": "Geography"
+    },
+    {
+      "word": "viaje",
+      "phonetic": "[ˈbjaxe]",
+      "example_sentence": "Mi viaje a España fue increíble.",
+      "category": "Travel"
+    },
+    {
+      "word": "música",
+      "phonetic": "[ˈmusika]",
+      "example_sentence": "Me encanta escuchar música clásica.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "libro",
+      "phonetic": "[ˈliβro]",
+      "example_sentence": "Estoy leyendo un libro muy interesante.",
+      "category": "Education"
+    },
+    {
+      "word": "amistad",
+      "phonetic": "[amisˈtað]",
+      "example_sentence": "La amistad es un tesoro muy valioso.",
+      "category": "Personal data"
+    },
+    {
+      "word": "naturaleza",
+      "phonetic": "[natuɾaˈleθa]",
+      "example_sentence": "Me gusta caminar por la naturaleza.",
+      "category": "Nature"
+    },
+    {
+      "word": "felicidad",
+      "phonetic": "[feliθiˈðað]",
+      "example_sentence": "La felicidad se encuentra en las pequeñas cosas.",
+      "category": "Emotions"
+    },
+    {
+      "word": "comunicación",
+      "phonetic": "[komunikaˈθjon]",
+      "example_sentence": "La comunicación es clave en las relaciones.",
+      "category": "Communication"
+    },
+    {
+      "word": "tecnología",
+      "phonetic": "[teknoloˈxia]",
+      "example_sentence": "La tecnología avanza muy rápido.",
+      "category": "Technology"
+    },
+    {
+      "word": "cultura",
+      "phonetic": "[kulˈtuɾa]",
+      "example_sentence": "La cultura española es muy rica.",
+      "category": "Culture"
+    },
+    {
+      "word": "libertad",
+      "phonetic": "[liβeɾˈtað]",
+      "example_sentence": "La libertad es un derecho fundamental.",
+      "category": "Society"
+    },
+    {
+      "word": "esperanza",
+      "phonetic": "[espeˈɾanθa]",
+      "example_sentence": "Nunca pierdas la esperanza en el futuro.",
+      "category": "Emotions"
+    }
+  ]
+}
