@@ -3,120 +3,139 @@
   "display_name": "Magyar",
   "words": [
     {
+      "id": "absence_001",
       "word": "hiányzás",
       "phonetic": "[ˈhiːaːɲzaːʃ]",
       "example_sentence": "Az ő hiányzása alatt vigyáztam a házra.",
       "category": "Personal data"
     },
     {
+      "id": "family_001",
       "word": "család",
       "phonetic": "[ˈt͡ʃɒlaːd]",
       "example_sentence": "A családom nagyon fontos számomra.",
       "category": "Personal data"
     },
     {
+      "id": "work_001",
       "word": "munka",
       "phonetic": "[ˈmuŋkɒ]",
       "example_sentence": "Minden reggel bemegyek dolgozni.",
       "category": "Work"
     },
     {
+      "id": "school_001",
       "word": "iskola",
       "phonetic": "[ˈiʃkolɒ]",
       "example_sentence": "A gyerekek reggel mennek iskolába.",
       "category": "Education"
     },
     {
+      "id": "hospital_001",
       "word": "kórház",
       "phonetic": "[ˈkoːrhaːz]",
       "example_sentence": "Az orvos a kórházban dolgozik.",
       "category": "Health"
     },
     {
+      "id": "food_001",
       "word": "étel",
       "phonetic": "[ˈeːtɛl]",
       "example_sentence": "A magyar étel nagyon finom.",
       "category": "Food"
     },
     {
+      "id": "time_001",
       "word": "idő",
       "phonetic": "[ˈidøː]",
       "example_sentence": "Az idő nagyon gyorsan telik.",
       "category": "Time"
     },
     {
+      "id": "money_001",
       "word": "pénz",
       "phonetic": "[ˈpeːnz]",
-      "example_sentence": "Pénzre van szükségem az autó megvásárlásához.",
-      "category": "Finance"
+      "example_sentence": "Pénzre van szükségem az autó megvásárlásához.",      "category": "Finance"
     },
     {
+      "id": "city_001",
       "word": "város",
       "phonetic": "[ˈvaːroʃ]",
       "example_sentence": "Budapest egy nagyon szép város.",
       "category": "Geography"
     },
     {
+      "id": "travel_001",
       "word": "utazás",
       "phonetic": "[ˈutɒzaːʃ]",
       "example_sentence": "A magyarországi utazásom hihetetlen volt.",
       "category": "Travel"
     },
     {
+      "id": "music_001",
       "word": "zene",
       "phonetic": "[ˈzɛnɛ]",
       "example_sentence": "Szeretek klasszikus zenét hallgatni.",
       "category": "Entertainment"
     },
     {
+      "id": "book_001",
       "word": "könyv",
       "phonetic": "[ˈkɶɲv]",
       "example_sentence": "Egy nagyon érdekes könyvet olvasok.",
       "category": "Education"
     },
     {
+      "id": "friendship_001",
       "word": "barátság",
       "phonetic": "[ˈbɒraːt͡ʃaːɡ]",
       "example_sentence": "A barátság egy nagyon értékes kincs.",
       "category": "Personal data"
     },
     {
+      "id": "nature_001",
       "word": "természet",
       "phonetic": "[ˈtɛrmeːsɛt]",
       "example_sentence": "Szeretek a természetben sétálni.",
       "category": "Nature"
     },
     {
+      "id": "happiness_001",
       "word": "boldogság",
       "phonetic": "[ˈboldoɡʃaːɡ]",
       "example_sentence": "A boldogság a kis dolgokban rejlik.",
       "category": "Emotions"
     },
     {
+      "id": "communication_001",
       "word": "kommunikáció",
       "phonetic": "[ˈkommunikaːt͡sijoː]",
       "example_sentence": "A kommunikáció a kapcsolatok kulcsa.",
       "category": "Communication"
     },
     {
+      "id": "technology_001",
       "word": "technológia",
       "phonetic": "[ˈtɛxnoloːɡiɒ]",
       "example_sentence": "A technológia nagyon gyorsan fejlődik.",
       "category": "Technology"
     },
     {
+      "id": "culture_001",
       "word": "kultúra",
       "phonetic": "[ˈkultuːrɒ]",
       "example_sentence": "A magyar kultúra nagyon gazdag.",
       "category": "Culture"
     },
     {
+      "id": "freedom_001",
       "word": "szabadság",
       "phonetic": "[ˈsɒbɒdʃaːɡ]",
-      "example_sentence": "A szabadság alapvető jog.",
+      "example_sentence": "A szabadság alapvető jog.",      
       "category": "Society"
     },
     {
+      "id": "hope_001",
       "word": "remény",
       "phonetic": "[ˈrɛmeːɲ]",
       "example_sentence": "Soha ne veszítsd el a reményt a jövőben.",
